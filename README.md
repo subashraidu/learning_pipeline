@@ -46,4 +46,13 @@ Continuous Learning: Stay current with the latest tools and practices, as the fi
 **9. Monitoring and Logging**
 Monitoring Tools: Learn to use tools like Prometheus, Grafana, or ELK Stack for performance monitoring and logging.
 1. **Zabbix 7 Application and Network Monitoring**
-   
+
+**5. Get Comfortable with Cloud Platforms**
+Cloud Services: Learn about AWS, Azure, or Google Cloud Platform (GCP).
+Infrastructure as Code (IaC): Explore tools like Terraform or AWS CloudFormation.
+
+1. Microsoft Certified: Azure Fundamentals (AZ-900) ---Ideal for beginners; covers basic cloud concepts, Azure services, pricing, and support
+2. Microsoft Certified: Azure Administrator Associate (AZ-104) --- Focuses on managing Azure resources, including compute, networking, and storage.
+3. Microsoft Certified: Azure Developer Associate (AZ-204) --- Targets developers; covers designing, building, testing, and maintaining cloud applications and services.
+4. Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
+
